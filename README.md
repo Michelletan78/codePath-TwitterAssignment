@@ -24,12 +24,13 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-walkthrough video :
-<img src='https://media.giphy.com/media/ko0L2EGLhFGAQgGkMX/giphy.gif', alt='Video Walkthrough' /> <br>
-https://media.giphy.com/media/ko0L2EGLhFGAQgGkMX/giphy.gif
 
-<img src='https://media.giphy.com/media/ahSdKhtj0ZisQYXiOC/giphy.gif'
-' title='pull down tweets' width='' alt='Video Walkthrough' />
+<img src="https://media.giphy.com/media/ko0L2EGLhFGAQgGkMX/giphy.gif", alt='Video Walkthrough' /> <br>
+https://media.giphy.com/media/ko0L2EGLhFGAQgGkMX/giphy.gif
+### App Walkthrough GIF
+
+<img src="https://media.giphy.com/media/ahSdKhtj0ZisQYXiOC/giphy.gif" width=250><br>
+
 # twitter login video
 <img src='https://media.giphy.com/media/pRzKEUgSNBl6Rln8t4/giphy.gif'
 ' title='Video Walkthrough' width='' alt='Video Walkthrough' /> <br>
