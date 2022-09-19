@@ -24,8 +24,9 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-<img src='https://media.giphy.com/media/ko0L2EGLhFGAQgGkMX/giphy.gif', alt='Video Walkthrough' />
+walkthrough video :
+<img src='https://media.giphy.com/media/ko0L2EGLhFGAQgGkMX/giphy.gif', alt='Video Walkthrough' /> <br>
+https://media.giphy.com/media/ko0L2EGLhFGAQgGkMX/giphy.gif
 
 <img src='https://media.giphy.com/media/ahSdKhtj0ZisQYXiOC/giphy.gif'
 ' title='pull down tweets' width='' alt='Video Walkthrough' />
