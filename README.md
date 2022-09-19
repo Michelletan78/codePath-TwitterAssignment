@@ -25,12 +25,12 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://media.giphy.com/media/ko0L2EGLhFGAQgGkMX/giphy.gif", alt='Video Walkthrough' /> <br>
-https://media.giphy.com/media/ko0L2EGLhFGAQgGkMX/giphy.gif
+<img src="https://media.giphy.com/media/ko0L2EGLhFGAQgGkMX/giphy.gif"> <br>
+
 ### App Walkthrough GIF
 
 <img src="https://media.giphy.com/media/ahSdKhtj0ZisQYXiOC/giphy.gif" width=250><br>
 
 # twitter login video
-<img src='https://media.giphy.com/media/pRzKEUgSNBl6Rln8t4/giphy.gif'
-' title='Video Walkthrough' width='' alt='Video Walkthrough' /> <br>
+<img src="https://media.giphy.com/media/pRzKEUgSNBl6Rln8t4/giphy.gif"> <br>
+
