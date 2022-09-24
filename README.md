@@ -29,7 +29,7 @@ Here's a walkthrough of implemented user can compose a tweet
 Here's a walkthrough of implemented user can favorite a tweet. and unfavorite tweet! 
 use can retweet a tweet 
 
-<img src=" " title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://media.giphy.com/media/BJJQxBvrkcXpbF9MRc/giphy.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 # Twitter - Part I
