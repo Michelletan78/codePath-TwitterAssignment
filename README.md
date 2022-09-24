@@ -22,7 +22,12 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user can compose a tweet
+
+<img src="https://media.giphy.com/media/f5M6stdtlypvQZA48H/giphy.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+Here's a walkthrough of implemented user can favorite a tweet. and unfavorite tweet! 
+use can retweet a tweet 
 
 <img src=" " title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
